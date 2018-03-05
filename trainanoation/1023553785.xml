@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trainImage</folder>
+	<filename>1023553785.jpg</filename>
+	<path>/home/vickers_zhu/work/Codes/darkflow/trainImage/1023553785.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>finger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>512</ymin>
+			<xmax>382</xmax>
+			<ymax>735</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trainImage</folder>
+	<filename>WechatIMG1431516691309_.pic.jpg</filename>
+	<path>/home/vickers_zhu/work/Codes/darkflow/trainImage/WechatIMG1431516691309_.pic.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>finger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>482</ymin>
+			<xmax>250</xmax>
+			<ymax>820</ymax>
+		</bndbox>
+	</object>
+</annotation>
